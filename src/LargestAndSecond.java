@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class LargestAndSecond {
     public static void main (String[] args){
+        // java program to find the largest two numbers in an array.
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter the no. of elements you want in array.");
         int n = sc.nextInt();
