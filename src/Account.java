@@ -5,6 +5,9 @@
 public class Account {
     private String name;  // instance variable
 
+    public Account(String jane_green, double v) {
+    }
+
     // method to set the name in the object
     public void setName(String name)
     {
